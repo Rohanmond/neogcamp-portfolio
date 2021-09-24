@@ -1,24 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
 :root {
-    --primary-color: #059669;
+    --primary-color: #60A5FA;
     /*making color variable, root means entire css */
     --dark-gray: #6B7280;
     --off-white:#F3F4F6;
 }
 
 hr {
-    margin: 2rem 0rem;
+    margin: 2rem 1rem;
 }
 
 body {
     font-family: 'Montserrat', sans-serif;
+    text-align: center;
     margin: 0px;
 }
 
 /* body h1 div class are selectors*/
 .margin-md{
-    margin: 2rem;
+    margin: 2rem 1rem;
 }
 
 
